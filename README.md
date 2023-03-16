@@ -1,1 +1,2 @@
-# Personal Website of GBCCCCC
+# GBCCCCC's Personal Website
+Hello! I'm GBCCCCC!
